@@ -51,4 +51,6 @@ html {
     background-color: #ffffff;
     width: 700px;
     margin: 30px auto;
+    box-sizing: border-box;
 }
+
