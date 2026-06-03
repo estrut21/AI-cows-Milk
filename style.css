@@ -8,6 +8,7 @@
     width: 80%;
     margin: auto;
     padding: 30px;
+    background-color: #b4d2fd;
 }
 
 h1 {
@@ -34,7 +35,11 @@ section {
 }
 
 img.cow-image {
-    width: 100%;
+    width: 50%;
     height: auto;
     margin-top: 20px;
+}
+
+html {
+    background-color: #42a7ff;
 }
