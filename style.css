@@ -13,7 +13,7 @@
 
 h1 {
     font-size: 36px;
-    color: #ffffff;
+    color: #000000;
 }
 
 nav {
@@ -42,4 +42,13 @@ img.cow-image {
 
 html {
     background-color: #42a7ff;
+}
+
+.box {
+    border: 2px solid black;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #ffffff;
+    width: 700px;
+    margin: 30px auto;
 }
