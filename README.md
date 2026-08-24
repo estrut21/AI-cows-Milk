@@ -1,4 +1,5 @@
 # AI-cows-Milk
+Link to Site: https://estrut21.github.io/AI-cows-Milk/
 Cows take up too much space lets replace them with AI
 This site is meant as satire but it actually goes a bit into the enviormental impacts of AI and cattle/farming. It compares topics to water consumption and energy usage. While giving the satrical solution of an AI model called Cow gpt. a robotic cow that produces AI milk. 
 
